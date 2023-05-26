@@ -1,2 +1,2 @@
 # Cartan-cubes
-Computational data accompanying the paper "A simple dichotomy in Serre's uniformity question", by Lorenzo Furio and Davide Lombardo
+Computational data accompanying the paper "Serre's uniformity question and proper subgroups of $C_{ns}^+(p)$", by Lorenzo Furio and Davide Lombardo
