@@ -29,7 +29,7 @@ for p in [ i : i in [100..20400] | IsPrime(i) and i mod 9 in {2,5} ] do
                 We define an elliptic curve E with integral coefficients and j-invariant equal to j.
                 */
                 D := Discriminant(E);
-                check : =false;
+                check := false;
 
                 /*
                 The variable "check" is set to true as soon as we find an auxiliary prime \ell
